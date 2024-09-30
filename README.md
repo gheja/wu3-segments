@@ -47,5 +47,5 @@ works and photos found online, details follow.
   by Peter Forsberg / Europe / Alamy Stock Photo
 
   - `B` \
-  ?
-  by ?
+  [Betriebsstörung der U3](https://www.heute.at/s/ersatzbus-rangelei-nach-stoerung-der-u3-100280980)
+  by zVg
