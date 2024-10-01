@@ -1,10 +1,12 @@
 # WU3 Segments
 
-**Important:** this font still lacks basic characters and is a work in progress.
-
 An open source font based on the displays used on the U3 subway line in Vienna.
 
 Download it here: https://github.com/gheja/wu3-segments/tree/main/releases
+
+Note: this font is still work in progress.
+
+![The Windows font preview showing the WU3 Segments font](src/misc/windows_preview_v0.10.png)
 
 ![A close up of a display on the U3 line](thumbnail_3.jpg)
 
@@ -22,7 +24,7 @@ works and photos found online, details follow.
   - `A` `E` `G` `I` `K` `M` `N` `O` `R` `S` `T` `U` `1` `2` `3` `4` `5` `8` `_` `*` \
   Own work
 
-  - `9` `0` `J` `Q` `X` `Y` `"` `'` `(` `)` `+` `.` `:` `;` `?` `@` `/` `-` \
+  - `9` `0` `J` `Q` `X` `Y` `ß` `"` `'` `(` `)` `+` `.` `:` `;` `?` `@` `/` `-` \
   Own work, guesses based on other characters
 
   - `C` `H` `L` `F` `Z` `Ö` `Ü` `!` `,` \
