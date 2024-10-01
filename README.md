@@ -22,7 +22,7 @@ works and photos found online, details follow.
   - `A` `E` `G` `I` `K` `M` `N` `O` `R` `S` `T` `U` `1` `2` `3` `4` `5` `8` `_` `*` \
   Own work
 
-  - `9` `0` `J` `Q` `X` `Y` `"` `'` `(` `)` `+` `.` `:` `;` `?` `@` `/` \
+  - `9` `0` `J` `Q` `X` `Y` `"` `'` `(` `)` `+` `.` `:` `;` `?` `@` `/` `-` \
   Own work, guesses based on other characters
 
   - `C` `H` `L` `F` `Z` `Ö` `Ü` `!` `,` \
