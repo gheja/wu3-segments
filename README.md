@@ -24,7 +24,7 @@ works and photos found online, details follow.
   - `A` `E` `G` `I` `K` `M` `N` `O` `R` `S` `T` `U` `1` `2` `3` `4` `5` `8` `_` `*` \
   Own work
 
-  - `9` `0` `J` `Q` `X` `Y` `ß` `"` `'` `(` `)` `+` `.` `:` `;` `?` `@` `/` `-` \
+  - `9` `0` `J` `Q` `X` `Y` `ß` `"` `'` `(` `)` `+` `.` `:` `;` `?` `@` `/` `-` `<` `>` `=` `&` `#` `$` `%` \
   Own work, guesses based on other characters
 
   - `C` `H` `L` `F` `Z` `Ö` `Ü` `!` `,` \
@@ -52,5 +52,5 @@ works and photos found online, details follow.
   by zVg
 
   - `7` \
-  ?
-  by ?
+  [Stations (46/59)](https://imhd.sk/transport/gallery-media/584/Stations/81718/Route-U3-Zieglergasse)
+  by Andreas Papadopulos
