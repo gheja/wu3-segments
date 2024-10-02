@@ -12,6 +12,24 @@ Note: this font is still work in progress.
 
 ![A close up of a display on the U3 line](thumbnail_3.jpg)
 
+## About
+
+When I first visited Vienna and saw a display in the U3 subway and
+immediately noticed how many segments there were. After thinking "this
+must be way too many" I started to really like it and next time I took
+a few pictures and [wanted to see all the characters](https://mastodon.social/@gheja/113012797551894562).
+A bit later I [drew the segments in Inkscape](https://mastodon.social/@gheja/113138822732431374)
+and played around with the idea of making a font out of it. It was
+received surprisingly well on Mastodon, this gave me the push to
+[really start to create the font](https://mastodon.social/@gheja/113215721872127696).
+
+The name WU3 Segments comes from Wien U3 and the fact that it consists
+of segments. I'm not really sure if it is used elsewhere as well but
+I will stick with this name.
+
+I probaly should write Wien Subway Font and Vienna U-Bahn Font here,
+just for SEO reasons :)
+
 ## Sources
 
 The LCD segments are based on my own works (photos taken on subway
