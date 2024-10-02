@@ -31,7 +31,7 @@ The segments and characters were drawn in [Inkscape](https://inkscape.org/),
 the font files were generated with [Birdfont](https://birdfont.org/),
 feel free to edit, use, share any of the files.
 
-I probaly should write Wien Subway Font and Vienna U-Bahn Font here,
+I probaly should write Vienna Subway Font and Wien U-Bahn Font here,
 just for SEO reasons :)
 
 ## Sources
