@@ -6,14 +6,11 @@ Download it here: https://github.com/gheja/wu3-segments/tree/main/releases
 
 Note: this font is still work in progress.
 
-![The Windows font preview showing the WU3 Segments font](src/misc/windows_preview_v0.10.png)
+![The Windows font preview showing the WU3 Segments font](src/misc/windows_preview_v0.11.png)
+
+![A quick demo with the WU3 Segments font](demo_1.jpg)
 
 ![A close up of a display on the U3 line](thumbnail_3.jpg)
-
-![A close up of the WU3 Segments font](thumbnail_2.jpg)
-
-![A quick demo with the WU3 Segments font](thumbnail_1.jpg)
-
 
 ## Sources
 
