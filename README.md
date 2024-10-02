@@ -2,7 +2,7 @@
 
 An open source font based on the displays used on the U3 subway line in Vienna.
 
-Download it here: https://github.com/gheja/wu3-segments/tree/main/releases
+Download it here: https://github.com/gheja/wu3-segments/releases/
 
 Note: this font is still work in progress.
 
