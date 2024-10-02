@@ -27,6 +27,10 @@ The name WU3 Segments comes from Wien U3 and the fact that it consists
 of segments. I'm not really sure if it is used elsewhere as well but
 I will stick with this name.
 
+The segments and characters were drawn in [Inkscape](https://inkscape.org/),
+the font files were generated with [Birdfont](https://birdfont.org/),
+feel free to edit, use, share any of the files.
+
 I probaly should write Wien Subway Font and Vienna U-Bahn Font here,
 just for SEO reasons :)
 
@@ -35,6 +39,12 @@ just for SEO reasons :)
 The LCD segments are based on my own works (photos taken on subway
 stations), the shape of the characters are based on or inspired by own
 works and photos found online, details follow.
+
+If you have photos of characters that are not listed here or are listed
+as guesses and you would like to contribute to the project, please open a
+[New Issue](https://github.com/gheja/wu3-segments/issues/new) or ping me
+on [Mastodon](https://mastodon.social/@gheja). In return I'd list you as
+contributor, of course. Thank you!
 
   - `A` `E` `G` `I` `K` `M` `N` `O` `R` `S` `T` `U` `1` `2` `3` `4` `5` `8` `_` `*` \
   Own work
