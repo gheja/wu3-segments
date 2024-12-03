@@ -4,7 +4,8 @@ An open source font based on the displays used on the U3 subway line in Vienna.
 
 Download it here: https://github.com/gheja/wu3-segments/releases/
 
-Note: this font is still work in progress.
+Note: this font is still work in progress and the latest release might
+have slight modifications compared to the screenshots.
 
 ![The Windows font preview showing the WU3 Segments font](src/misc/windows_preview_v0.12.png)
 
